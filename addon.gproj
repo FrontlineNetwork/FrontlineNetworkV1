@@ -1,0 +1,8 @@
+GameProject {
+ ID "FrontlineNetworkV1"
+ GUID "6446173BB1F6E589"
+ TITLE "FrontlineNetworkV1"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
