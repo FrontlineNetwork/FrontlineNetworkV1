@@ -2,3 +2,5 @@
 *.bak
 *.log
 workshop/*
+resourceDatabase.rdb
+
